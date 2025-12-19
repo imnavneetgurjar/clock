@@ -1,22 +1,22 @@
-# ⏰ Clock
+# Clock
 
 I build a simple clock **digital clock** by using **HTML, CSS, and JavaScript**.  
 This clock shows **current time in real-time** with 100% aqurisy and simpal UI.
 
 ---
 
-## 🚀 Live Demo
+## playable link
 👉 https://imnavneetgurjar.github.io/clock/
 
 
 ---
 
-## 📂 GitHub Repository
-👉https://github.com/imnavneetgurjar/clock/
+## Repository link
+-- https://github.com/imnavneetgurjar/clock/
 
 ---
 
-## ✨ Features
+##  Features
 - real time show
 - Updates within a second
 - simpel design
@@ -25,7 +25,7 @@ This clock shows **current time in real-time** with 100% aqurisy and simpal UI.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech use
 - HTML 
 - CSS
 - JavaScript  
@@ -36,7 +36,7 @@ This clock shows **current time in real-time** with 100% aqurisy and simpal UI.
 <img width="1809" height="843" alt="image" src="https://github.com/user-attachments/assets/7ed8e42b-a194-4c48-9849-24bac4b284db" />
 
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation
 
 1. Clone the repository
 ```bash
