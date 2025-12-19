@@ -1,7 +1,7 @@
 # ⏰ Clock
 
-A simple and elegant **digital clock** built using **HTML, CSS, and JavaScript**.  
-This project displays the **current time in real-time** with a clean and minimal UI.
+I build a simple clock **digital clock** by using **HTML, CSS, and JavaScript**.  
+This clock shows **current time in real-time** with 100% aqurisy and simpal UI.
 
 ---
 
@@ -17,17 +17,17 @@ This project displays the **current time in real-time** with a clean and minimal
 ---
 
 ## ✨ Features
-- Real-time digital clock
-- Updates every second
-- Clean and minimal design
-- Responsive layout
-- Lightweight and fast
+- real time show
+- Updates within a second
+- simpel design
+- Responsive link
+- fast and small sizee
 
 ---
 
 ## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
+- HTML 
+- CSS
 - JavaScript  
 
 ---
@@ -41,3 +41,5 @@ This project displays the **current time in real-time** with a clean and minimal
 1. Clone the repository
 ```bash
 git clone https://github.com/imnavneetgurjar/clock.git
+
+thanks hackclub for review my repo
